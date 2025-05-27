@@ -1,6 +1,6 @@
 # Grails 6 Spring Security Core Login Tutorial
 
-Read more article [here]()
+Read more article [here](https://www.djamware.com/post/5db9a359fe53660ee3228772/grails-6-spring-security-core-login-tutorial)
 
 ## Grails 6.2.3 Documentation
 
